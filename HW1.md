@@ -10,3 +10,4 @@
 - [ ] As I have taken the time outside class to go over the course material [CBF course material](https://academy.codingblackfemales.com/courses/entry-to-tech/lessons/entry-to-tech/) and do further reading on the topics I am not confused about anything as of yet.
  
 #     :smiley: :thumbsup:
+
